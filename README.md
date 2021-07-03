@@ -7,3 +7,7 @@ function payment() {
 function login() {
  do something
 }
+
+function login_admin() {
+ do something
+}
