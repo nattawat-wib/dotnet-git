@@ -4,6 +4,3 @@ function payment() {
  do something
 }
 
-function login() {
- do something
-}
